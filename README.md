@@ -1,2 +1,3 @@
 # git-github
-first repository
+first repository 
+for tutoral perpose
